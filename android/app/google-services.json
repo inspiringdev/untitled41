@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832230723962",
+    "project_id": "tiger-u5",
+    "storage_bucket": "tiger-u5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832230723962:android:214c33e30f13565c6ec6c3",
+        "android_client_info": {
+          "package_name": "com.example.untitled41"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOUix21-GQzn3mfrtRyZSzzKr35wokRxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
